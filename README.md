@@ -74,6 +74,12 @@ To build an AI model that predicts patient outcomes using real-world healthcare 
 
 ---
 
+### 📥 Clone the Repository
+
+```bash
+git clone https://github.com/Zainch032/Feature-Engineering.git
+cd Feature-Engineering
+
 ## 📦 Requirements
 
 Install required packages using:
